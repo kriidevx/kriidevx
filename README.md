@@ -59,6 +59,55 @@ const kruthi: Developer = {
 };
 ```
 
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎯 AlgoVibe Host
+**Coding Club Event**
+
+Organized college-wide coding event for entire ISE Department
+
+**100+ Registrations**  
+**30+ Teams**
+
+`Event Management` `Leadership`
+
+</td>
+<td align="center" width="33%">
+
+### 🥉 CloneFest 2025
+**3rd Place Winner**
+
+RVCE College-Wide Hackathon  
+3 Week Intensive Event
+
+**Top 3 Finish**
+
+`Full-Stack Dev` `Problem Solving`
+
+</td>
+<td align="center" width="33%">
+
+### 💡 ThinkSprint 2025
+**Finalist**
+
+Competed against top developers in innovation challenge
+
+**Selected Finalist**
+
+`Innovation` `Hackathon`
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
